@@ -1,0 +1,243 @@
+img.image{
+	width:134px;
+	
+	
+}
+
+
+img.nrml{
+	width:300px;
+	
+	
+}
+
+body.accueil_body{
+	color:white;
+	background-image:url(https://static.wikia.nocookie.net/percy-jackson/images/3/3a/Olympe_Film_Percy_Jackson_1.jpg/revision/latest?cb=20130816132758&path-prefix=fr);
+	background-repeat:repeat
+}
+
+
+body.poseidon_body {
+	color:black;
+	background-image:url(https://file1.science-et-vie.com/var/scienceetvie/storage/images/1/0/5/105706/vagues-scelerates-enfin-explication.jpg?alias=original);
+}
+
+
+
+body.hades_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://delagedeglace.files.wordpress.com/2009/06/enfer-compressor1.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+h1{
+text-align:center;	
+	
+	
+}
+
+h3{
+text-align:center;
+color:white
+	
+	
+}
+
+
+body.hera_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(http://www.mions.fr/wp-content/uploads/2015/11/mariages-1024x577.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+body.hestia_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://www.netflix-news.com/wp-content/uploads/2017/12/feu-chemine%CC%81e-netflix-1200x709.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color:white;
+}
+
+
+body.artemis_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(http://static.apidae-tourisme.com/filestore/objets-touristiques/images/73/2/10224201.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+body.apollon_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://www.francetvinfo.fr/pictures/UmmdMy-3wjzyxgTo2NqmX1Rw5Yc/640x360/2020/12/18/eltVideoWs-472783-5fdd0dc9d46ea.jpeg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+body.athena_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://www.journaldugeek.com/content/uploads/2021/10/devanath-echec-pixabay.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body.hermes_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://www.histoiresdetongs.com/wp-content/uploads/faire-camino-santiago-hiver.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+body.hephaistos_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://www.lesdebrouillards.com/wp-content/uploads/2019/01/volcan.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color:white;
+}
+
+
+body.ares_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://www.college-zola-choisy.fr/wp-content/uploads/2019/01/champbataille.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+body.aphrodite_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://thumbs.dreamstime.com/b/colombes-de-l-amour-8017532.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+body.demeter_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://static4.depositphotos.com/1015060/447/i/600/depositphotos_4471035-stock-photo-golden-sunset-over-farm-field.jpg) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+a{
+  color: white;
+}
+
+a{
+   target: blank;
+}
+
+
+body.zeus_body{
+	/* L'image est positionnée en fond et est centrée */
+	background: url(https://file1.science-et-vie.com/var/scienceetvie/storage/images/1/0/5/105000/pourquoi-tonnerre-dure-plus-longtemps-que-eclair.jpg?alias=exact1024x768_l) no-repeat center center fixed;
+	/* Ajout de la propriété avec les préfixes pour tous les moteurs de rendu */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+
+
+html { 
+	margin: 0;
+	padding: 0;
+	height:100%; 
+	width:100%;}
+ 
+.home_body_bg {
+	margin: 0;
+	padding: 0;
+	top: 0; 
+	left: 0; 
+	color:white;
+    background-image: url(https://static.wikia.nocookie.net/percy-jackson/images/3/3a/Olympe_Film_Percy_Jackson_1.jpg/revision/latest?cb=20130816132758&path-prefix=fr);
+    /* Full height */
+    height: 100%;
+	width : 2200px; 
+    /* Center et dimensionnez l'image bien */
+    background-repeat: repeat;
+}
+
+
+figure.poseidon{
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    width: 300px;	
+    margin: auto;
+	border-color: black;
+background-color: white;
+color:black;
+}
+
+figure.hades{
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    width: 300px;	
+    margin: auto;
+	border-color: black;
+background-color: black;
+color:white;
+}
+
+
+figure.ares{
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    width: 300px;	
+    margin: auto;
+	border-color: black;
+background-color: black;
+color:white;
+}
+
